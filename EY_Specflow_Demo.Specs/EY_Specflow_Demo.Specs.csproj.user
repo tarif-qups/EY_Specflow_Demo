@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Hooks\BrowserHooks.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\AboutOptionsSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\AnalyticsConsultingPageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\CareerOptionSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\EYEthicsPageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\GrowthStrategyPageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\HowToApplyPageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\IndustriesOptionSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\IndustryPageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\JobSearchPageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\LocationsPageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\LongTermValuePageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\ManufacturingPageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\NewsroomPageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\OurPeopleOptionSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\ServicesOptionSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\ServicesPageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\SiteMapPageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\InsightsOptionsSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\SupportingOrgPageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\TechnologySteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\TransformationPageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\TrendingNowPageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\WebcastsPageSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
